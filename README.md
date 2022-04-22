@@ -1,7 +1,7 @@
 # ahiru
 ahiru is a simple open-source cross-platform program for running commands.<br>
 This program is written in [Lazarus/Object Pascal](https://www.lazarus-ide.org/).<br>
-<div align="center"><img src="screenshots/winxp-gtk2.png"> <img src="screenshots/debian-kde-qt5.png"> <img src="screenshots/freebsd-icewm-gtk2.png"> <img src="screenshots/haiku-qt5.png"></div>
+<div align="center"><img src="screenshots/winxp-gtk2.png"> <img src="screenshots/debian-kde-qt5.png"> <img src="screenshots/haiku-qt5.png"></div>
 
 ## Features
 On Windows, ahiru can run, for example - `explorer`, on Linux/FreeBSD - `xmessage "123" -display :0`, and on Haiku - `HaikuDepot`.<br>
